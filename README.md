@@ -9,7 +9,7 @@
     * Kotlin
 2. Принципы:
     * Single Activity ArchitecturSingle Activity Architectur
-    * Немного посмотрел Clean Architectur
+    * Немного посмотрел Clean Architecture
 3. Архитектурные паттерны:
     * MVVM
 4. Библиотеки и инструменты:
